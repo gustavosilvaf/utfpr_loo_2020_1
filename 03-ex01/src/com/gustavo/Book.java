@@ -55,8 +55,10 @@ public class Book {
         System.out.printf("Title: " + title
                 + ". Author: " + author
                 + ". Pages: " + pages + ".");
-        if (numReference.length() != 0)
+        if (numReference.length() != 0) {
             System.out.printf(" Number reference: " + numReference);
+            System.out.println();
+        }
         System.out.printf(" Number of loans: " + borrowed);
 
         System.out.println();
