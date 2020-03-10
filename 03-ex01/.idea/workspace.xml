@@ -51,22 +51,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1251" height="150" key="GridCell.Tab.0.bottom" timestamp="1583800615670">
+    <state width="1251" height="150" key="GridCell.Tab.0.bottom" timestamp="1583800883315">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1251" height="150" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1583800615670" />
-    <state width="1251" height="150" key="GridCell.Tab.0.center" timestamp="1583800615669">
+    <state width="1251" height="150" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1583800883315" />
+    <state width="1251" height="150" key="GridCell.Tab.0.center" timestamp="1583800883313">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1251" height="150" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1583800615669" />
-    <state width="1251" height="150" key="GridCell.Tab.0.left" timestamp="1583800615669">
+    <state width="1251" height="150" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1583800883313" />
+    <state width="1251" height="150" key="GridCell.Tab.0.left" timestamp="1583800883310">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1251" height="150" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1583800615669" />
-    <state width="1251" height="150" key="GridCell.Tab.0.right" timestamp="1583800615669">
+    <state width="1251" height="150" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1583800883310" />
+    <state width="1251" height="150" key="GridCell.Tab.0.right" timestamp="1583800883314">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1251" height="150" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1583800615669" />
+    <state width="1251" height="150" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1583800883314" />
+    <state x="67" y="27" width="1289" height="739" key="new project wizard" timestamp="1583800881375">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="67" y="27" width="1289" height="739" key="new project wizard/67.27.1299.741@67.27.1299.741" timestamp="1583800881375" />
     <state x="705" y="176" key="run.anything.popup" timestamp="1583797776408">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
